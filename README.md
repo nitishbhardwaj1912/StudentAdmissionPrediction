@@ -2,7 +2,7 @@
 # Student Admission Prediction
 This repository contains objects related to the prediction of student admission based on historical data of students.
 
-## Information on Dataset
+## About Dataset
 The dataset[1] contains several parameters which are considered important during the application in Graduation Programs. The parameters included are : 
  1. GRE Scores ( out of 340 ) 
  2. TOEFL Scores ( out of 120 ) 
